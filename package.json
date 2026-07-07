@@ -18,6 +18,7 @@
     "@types/node": "20.19.43",
     "@types/react": "18.3.31",
     "typescript": "5.9.3",
-    "@opennextjs/cloudflare": "latest"
+    "@opennextjs/cloudflare": "^1.20.1",
+  "wrangler": "^4"
   }
 }
