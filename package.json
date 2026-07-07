@@ -17,5 +17,6 @@
     "typescript": "^5.0.0",
     "@types/node": "^20.0.0",
     "@types/react": "^18.2.0"
+    "@opennextjs/cloudflare": "latest"
   }
 }
