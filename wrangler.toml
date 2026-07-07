@@ -1,0 +1,12 @@
+name = "proxy-api"
+main = ".open-next/worker.js"
+compatibility_date = "2024-09-23"
+
+[assets]
+directory = ".open-next/assets"
+
+[vars]
+# Ireo variables izay efa napetrakao tao amin'ny Cloudflare Dashboard
+# Tsy mila apetraka eto raha efa ao amin'ny dashboard, fa tsara raha misy an'ity:
+SUPABASE_URL = "https://edtkuspygldsgiqszqxy.supabase.co"
+SUPABASE_KEY = "sb_publishable_Vv27KOKRq6ziJVbJru-FGQ_YDyUGRkt"
