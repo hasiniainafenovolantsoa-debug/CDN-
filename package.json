@@ -7,6 +7,12 @@
     "build": "next build",
     "start": "next start"
   },
+    "scripts": {
+    "dev": "next dev",
+    "build": "npx @opennextjs/cloudflare@latest build",
+    "start": "next start"
+  },
+  
   "dependencies": {
     "next": "16.2.10",
     "react": "^18.2.0",
